@@ -1,8 +1,8 @@
 name = MilitaryAmerisunAvatar
 type = body+head
 scale = 1
-filename = MilitaryAmerisunAvatar/MilitaryAmerisunAvatar.fbx
-texdir = MilitaryAmerisunAvatar/textures
+filename = https://github.com/Amerisun/hiFi/blob/master/MilitaryAmerisunAvatar/MilitaryAmerisunAvatar/MilitaryAmerisunAvatar.fbx
+texdir = https://github.com/Amerisun/hiFi/blob/master/MilitaryAmerisunAvatar/MilitaryAmerisunAvatar/textures
 joint = jointRoot = Hips
 joint = jointLean = Spine
 joint = jointRightHand = RightHand
